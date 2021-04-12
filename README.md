@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujansivaji
 - 👀 I’m interested in Data Insights,Recommendation Engines, Deep-nets, Forecasting.
-- 🌱 I’m currently learning: Productionize ML models
+- 🌱 I’m currently learning: Explainable AI
 - 📫 How to reach me : sujans.sujan@gmail.com
 
 <!---
